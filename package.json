@@ -1,0 +1,13 @@
+{
+  "name": "vitest-mocking",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "vitest"
+  },
+  "devDependencies": {
+    "vite": "^1.0.0-rc.13"
+  },
+  "dependencies": {
+    "vitest": "^0.28.5"
+  }
+}
